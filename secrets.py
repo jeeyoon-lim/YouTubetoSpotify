@@ -1,0 +1,3 @@
+spotify_token = "BQBaaG1F1rVUtSu_pU4mKMZ-jQvqL08g1ABgu0QGxtg1HLvFBbJ3PKdSzOLnW_0oB1JwTa1SxxXZkRRU30T0bvi97AGoSLPSTFt2JqRlrdlRA7yV4KSPdtC4oOKwIy-i1-1dVUTmwIZvmWOCxx-XkJjJNOze1FOhP3YKVKszD8o8yZQ"
+spotify_user_id = ""
+youtube_API_key= "AIzaSyCBsxdaUwvJE03x_-WJSU-bglKidBaK1wQ"
